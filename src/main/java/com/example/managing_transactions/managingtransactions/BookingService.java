@@ -1,4 +1,4 @@
-package com.example.managing_transactions;
+package com.example.managing_transactions.managingtransactions;
 
 import java.util.List;
 
